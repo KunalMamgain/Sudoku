@@ -8,21 +8,14 @@ For solving the sudoku board, backtracking algorithm is used.
 
 HOT keys :-
 
-KEYS | FUNCTION
------|----------
-**Q** | quit program
-**SPACE** | confirm the selected operation
-**ESC** | reject the selected operation
-**1 to 9** | To put the number in the selected cell of sudoku board
+|KEYS | FUNCTION |
+|-----|----------|
+|**Q** | quit program|
+|**SPACE** | confirm the selected operation|
+|**ESC** | reject the selected operation|
+|**1 to 9** | To put the number in the selected cell of sudoku board|
 
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+
 
 ## Some of the Functionalities
 
