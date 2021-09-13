@@ -25,28 +25,36 @@ __The User can change the difficulty level__
 * H - Hard
 
 
-<img src="gifs/generate.gif" align="center" width="550" height="600" />
+<p align="center">
+<img src="gifs/generate.gif" width="550" height="600">
+</p>
+
 
 <br />
 <br />
 
 * __The game can be paused__
 
-<img src="gifs/pause.gif" align="center" width="550" height="600" />
+<p align="center">
+<img src="gifs/pause.gif" width="550" height="600">
+</p>
+
 
 <br />
 <br />
 
 * __If an unfilled board is checked it shows "All cells are not Filled"__
-
-<img src="gifs/check.gif" align="center" width="550" height="600" />
+<p align="center">
+<img src="gifs/check.gif" width="550" height="600">
+</p>
 
 <br />
 <br />
 
 * __If all the cells are filled and the puzzle is not solver it hightlights the error in red color__
-
-<img src="gifs/error.gif" align="center" width="550" height="600" />
+<p align="center">
+<img src="gifs/error.gif" width="550" height="600">
+</p>
 
 <br />
 <br />
