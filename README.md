@@ -1,3 +1,5 @@
+# The API for generating Sudoku boards is depreciated by the owner. You can see the below gif for an understanding of the work. 
+
 # Sudoku
 
 A sudoku Game created using python.
